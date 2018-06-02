@@ -9,6 +9,8 @@ function addElementToBeginningOfArray(array, element) {
   return newArray;
 }
 
+function addElementToEndOfArray(["cow, tiger, pig"], zebra);
+
 function destructivelyAddElementToBeginningOfArray (array, element) {
   array.unshift(element);
 }
